@@ -1,0 +1,29 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\lab1_Entropia\lab1_Entropia\bin\Debug\lab1_Entropia.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\lab1_Entropia\lab1_Entropia\bin\Debug\lab1_Entropia.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\lab1_Entropia\lab1_Entropia\bin\Debug\lab1_Entropia.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.pdb
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\lab1_Entropia.exe.config
+D:\KI\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.exe
+D:\KI\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.pdb
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\lab1_Entropia.exe
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\lab1_Entropia.pdb
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\mscorlib.dll
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\System.Net.Http.dll
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\System.Net.Http.xml
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\ru\mscorlib.resources.dll
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\normidna.nlp
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\normnfc.nlp
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\normnfd.nlp
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\normnfkc.nlp
+D:\KI\lab1_Entropia\lab1_Entropia\bin\Debug\normnfkd.nlp
+D:\KI\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.csprojResolveAssemblyReference.cache
+D:\КНУ\lab1_Entropia\lab1_Entropia\bin\Debug\lab1_Entropia.exe.config
+D:\КНУ\lab1_Entropia\lab1_Entropia\bin\Debug\lab1_Entropia.exe
+D:\КНУ\lab1_Entropia\lab1_Entropia\bin\Debug\lab1_Entropia.pdb
+D:\КНУ\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.csprojAssemblyReference.cache
+D:\КНУ\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.csproj.CoreCompileInputs.cache
+D:\КНУ\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.exe
+D:\КНУ\lab1_Entropia\lab1_Entropia\obj\Debug\lab1_Entropia.pdb
